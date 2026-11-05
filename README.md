@@ -23,5 +23,5 @@ An automated Python data pipeline that fetches real-time trending repositories f
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/github_tracker.git](https://github.com/YOUR_USERNAME/github_tracker.git)
-   cd github_tracker
+   git clone [https://github.com/mukeshanand534-gif/project.git](https://github.com/mukeshanand534-gif/projectgit)
+   cd project
